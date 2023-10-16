@@ -1,0 +1,10 @@
+{
+	"name": {
+		"message": "Stackoverflow copy/paste helper",
+		"description": "extension name"
+	},
+	"description": {
+		"message": "Helps copy paste faster from Stackoverflow",
+		"description": "extension description"
+	}
+}
