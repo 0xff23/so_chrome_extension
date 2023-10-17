@@ -1,0 +1,16 @@
+_copy_button {
+	position: absolute;
+	right: 12px;
+	top: 6px;
+	padding: 0.5em;
+	background: #ffcc00;
+	color: #000;
+	border: none;
+	border-radius: 3px;
+	transition: background 0.15s ease-in-out;
+	font-family: monospace;
+}
+
+_copy_button:hover {
+	background: #e6b800;
+}
