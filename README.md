@@ -2,7 +2,7 @@
 
 **Quickly copy code snippets in Chrome with one click!**
 
-CopyCode adds a "Copy" button to code blocks on any website, letting you easily copy and paste code into your editor or IDE. Lightweight and fast, it’s privacy-respecting and works across numerous sites. 
+Extension adds a "Copy" button to code blocks on any website, letting you easily copy and paste code into your editor or IDE. Lightweight and fast, it’s privacy-respecting and works across numerous sites. 
 
 ## Usage:
 1. Use from local path.
